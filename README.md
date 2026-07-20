@@ -1,49 +1,30 @@
-# Hi, I'm Sofwan
+# Sofwan
 
-I'm a Grade 11 high school student from Indonesia who is interested in Computer Science, problem solving, and building reliable software systems.
+Grade 11 student from Indonesia interested in computer science, problem solving, and reliable software systems.
 
-Currently, my strongest focus is **competitive programming with C++**, especially through preparation for **OSN Informatics**. I am also rebuilding my practical software engineering skills, with a long-term interest in becoming a **Backend / Systems Software Engineer** with strong fundamentals in algorithms, databases, security, and infrastructure.
+```text
+CURRENT OBJECTIVE // BUILD STRONG FOUNDATIONS
+```
 
----
+My main focus is competitive programming with **C++** and preparation for **OSN Informatics**. I'm also learning the fundamentals needed to become a **Backend / Systems Software Engineer**.
 
-## Current Focus
+## Currently Learning
 
-- Competitive programming and algorithmic problem solving with **C++**
-- Backend development fundamentals
-- Databases and SQL
-- Linux, networking, and system basics
-- Web security fundamentals
-- Using AI tools responsibly to learn faster and review code better
-
----
-
-## Career Direction
-
-I am currently building myself toward:
-
-> Backend / Systems Software Engineer  
-> with strong algorithmic thinking, database knowledge, security awareness, and AI literacy.
-
----
-
-## What I'm Looking For
-
-I'm open to learning opportunities, collaborations, mentorship, and beginner-friendly projects related to:
-
-- Competitive programming
+- Algorithms and data structures
 - Backend development
-- Systems engineering
-- Cybersecurity fundamentals
-- Educational technology
-- Developer tools
+- Databases and SQL
+- Linux and networking
+- Web security fundamentals
 
----
+## Direction
+
+I want to build reliable software with strong foundations in algorithms, systems, databases, security, and infrastructure.
+
+I'm open to beginner-friendly projects, collaborations, mentorship, and learning opportunities.
 
 ## Contact
 
-- GitHub: [github.com/a6cenna](https://github.com/a6cenna)
-- Email: sofwanthoriqn10@gmail.com
+- [GitHub](https://github.com/a6cenna)
+- [Email](mailto:sofwanthoriqn10@gmail.com)
 
----
-
-> Still learning, still building, and trying to become better at solving real problems with Computer Science.
+> STILL LEARNING. STILL BUILDING. KEEP MOVING FORWARD.
