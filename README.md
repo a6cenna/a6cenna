@@ -1,4 +1,6 @@
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e6584fcc-af1e-4d02-8c72-c08a419f6a40" />
+<p align="center">
+  <img width="100%" alt="Dark industrial skyline banner" src="https://github.com/user-attachments/assets/96ac7190-1528-49a8-bb22-034f0e1a4187">
+</p>
 
 <h1 align="center">SOFWAN // A6CENNA</h1>
 
