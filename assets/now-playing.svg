@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Current soundtrack: War Without Reason by Heaven Pierce Her</title>
+  <desc id="desc">A dark red and amber music card matching the portfolio theme.</desc>
+
+  <rect width="1000" height="180" fill="#0B0908"/>
+  <rect x="1" y="1" width="998" height="178" fill="none" stroke="#2A2420" stroke-width="2"/>
+  <rect width="8" height="180" fill="#C8322B"/>
+
+  <text x="42" y="42" fill="#C8322B" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="3">
+    AUDIO LOG // CURRENT SOUNDTRACK
+  </text>
+  <text x="42" y="92" fill="#E8E2D6" font-family="Arial, sans-serif" font-size="32" font-weight="700">
+    WAR WITHOUT REASON
+  </text>
+  <text x="42" y="123" fill="#9A8F82" font-family="JetBrains Mono, Consolas, monospace" font-size="16" letter-spacing="2">
+    HEAVEN PIERCE HER
+  </text>
+
+  <rect x="42" y="148" width="610" height="4" fill="#2A2420"/>
+  <rect x="42" y="148" width="438" height="4" fill="#F2B33D"/>
+  <rect x="477" y="144" width="10" height="12" fill="#F2B33D"/>
+
+  <g transform="translate(720 42)">
+    <rect x="0" y="46" width="12" height="34" fill="#C8322B"/>
+    <rect x="24" y="27" width="12" height="53" fill="#F2B33D"/>
+    <rect x="48" y="12" width="12" height="68" fill="#C8322B"/>
+    <rect x="72" y="35" width="12" height="45" fill="#F2B33D"/>
+    <rect x="96" y="3" width="12" height="77" fill="#C8322B"/>
+    <rect x="120" y="23" width="12" height="57" fill="#F2B33D"/>
+    <rect x="144" y="41" width="12" height="39" fill="#C8322B"/>
+  </g>
+
+  <text x="720" y="148" fill="#6F8792" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2">
+    OPEN TRACK
+  </text>
+</svg>
