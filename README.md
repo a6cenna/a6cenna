@@ -1,4 +1,6 @@
-<h1 align="center">SOFWAN // UNIT A6CENNA</h1>
+![Uploading image.png…]()
+
+<h1 align="center">SOFWAN // A6CENNA</h1>
 
 <p align="center">
   <strong>GRADE 11 STUDENT // INDONESIA</strong><br>
@@ -16,9 +18,9 @@ CURRENT TARGET: OSN INFORMATICS
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STYLE_RANK-ASCENDING-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Style rank: Ascending">
-  <img src="https://img.shields.io/badge/CURRENT_MISSION-OSN_INFORMATICS-F2B33D?style=for-the-badge&amp;labelColor=0B0908" alt="Current mission: OSN Informatics">
-  <img src="https://img.shields.io/badge/PRIMARY_WEAPON-C%2B%2B-E8E2D6?style=for-the-badge&amp;labelColor=0B0908" alt="Primary language: C++">
+  <img src="https://img.shields.io/badge/CURRENT_MODE-OSN_PREP-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Current mode: OSN preparation">
+  <img src="https://img.shields.io/badge/MAIN_LANGUAGE-C%2B%2B-F2B33D?style=for-the-badge&amp;labelColor=0B0908" alt="Main language: C++">
+  <img src="https://img.shields.io/badge/INTEREST-BACKEND_%2F_SYSTEMS-E8E2D6?style=for-the-badge&amp;labelColor=0B0908" alt="Interest: Backend and systems">
 </p>
 
 <p align="center">
@@ -32,31 +34,31 @@ CURRENT TARGET: OSN INFORMATICS
 
 ---
 
-## LAYER 1 // CURRENT MISSION
+## LAYER 1 // CURRENT FOCUS
 
 I am a Grade 11 student preparing for **OSN Informatics** through competitive programming with **C++**.
 
 My objective is simple: sharpen my algorithmic thinking, strengthen my computer science fundamentals, and learn how reliable software systems are built.
 
 ```text
-READ THE PROBLEM.
-FIND THE INVARIANT.
-PROVE THE COMPLEXITY.
-THEN WRITE THE CODE.
+Understand.
+Design.
+Test.
+Implement.
 ```
 
-## LAYER 2 // ARSENAL
+## LAYER 2 // TOOLKIT
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-PRIMARY-C8322B?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=0B0908" alt="C++: Primary">
-  <img src="https://img.shields.io/badge/ALGORITHMS-OVERCLOCKED-F2B33D?style=for-the-badge&amp;labelColor=0B0908" alt="Algorithms: Overclocked">
-  <img src="https://img.shields.io/badge/BACKEND-LOADING-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Backend: Loading">
-  <img src="https://img.shields.io/badge/SQL-CALIBRATING-F2B33D?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=0B0908" alt="SQL: Calibrating">
-  <img src="https://img.shields.io/badge/LINUX-ONLINE-E8E2D6?style=for-the-badge&amp;logo=linux&amp;logoColor=F2B33D&amp;labelColor=0B0908" alt="Linux: Online">
-  <img src="https://img.shields.io/badge/SECURITY-ANALYZING-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Security: Analyzing">
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-MAIN-C8322B?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=0B0908" alt="C++: Main language">
+  <img src="https://img.shields.io/badge/ALGORITHMS-FOCUS-F2B33D?style=for-the-badge&amp;labelColor=0B0908" alt="Algorithms: Current focus">
+  <img src="https://img.shields.io/badge/BACKEND-LEARNING-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Backend: Learning">
+  <img src="https://img.shields.io/badge/SQL-LEARNING-F2B33D?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=0B0908" alt="SQL: Learning">
+  <img src="https://img.shields.io/badge/LINUX-PRACTICING-E8E2D6?style=for-the-badge&amp;logo=linux&amp;logoColor=F2B33D&amp;labelColor=0B0908" alt="Linux: Practicing">
+  <img src="https://img.shields.io/badge/SECURITY-EXPLORING-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Security: Exploring">
 </p>
 
-## LAYER 3 // LONG-TERM DIRECTIVE
+## LAYER 3 // CAREER DIRECTION
 
 Become a **Backend / Systems Software Engineer** with strong foundations in:
 
@@ -68,7 +70,7 @@ Become a **Backend / Systems Software Engineer** with strong foundations in:
 
 I am open to mentorship, collaborations, learning opportunities, and beginner-friendly projects involving competitive programming, backend systems, cybersecurity, educational technology, or developer tools.
 
-## SIGNALS // GITHUB ACTIVITY
+## SIGNALS // ACTIVITY
 
 <p align="center">
   <a href="https://github.com/a6cenna?tab=followers">
@@ -83,10 +85,11 @@ I am open to mentorship, collaborations, learning opportunities, and beginner-fr
 <div align="center">
 
 ```text
-THE TUTORIAL IS OVER.
-THE REAL PROBLEMS START HERE.
+THE TUTORIALS ARE DEAD.
+PROBLEMS ARE FUEL.
+THE BACKLOG IS FULL.
 ```
 
-**STILL LEARNING // STILL BUILDING // KEEP DESCENDING**
+**LEARN // BUILD // REVIEW // REPEAT**
 
 </div>
