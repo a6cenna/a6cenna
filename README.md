@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" alt="Dark industrial skyline banner" src="https://github.com/user-attachments/assets/96ac7190-1528-49a8-bb22-034f0e1a4187">
-</p>
-
 <h1 align="center">SOFWAN // A6CENNA</h1>
 
 <p align="center">
@@ -9,15 +5,11 @@
   Competitive Programming // Backend // Systems Engineering
 </p>
 
-<div align="center">
-
-```text
-LAYER 0 // PRELUDE
-SYSTEM STATUS: ONLINE
-CURRENT TARGET: OSN INFORMATICS
-```
-
-</div>
+<p align="center">
+  <code>LAYER 0 // PRELUDE</code><br>
+  <code>SYSTEM STATUS: ONLINE</code><br>
+  <code>CURRENT TARGET: OSN INFORMATICS</code>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENT_MODE-OSN_PREP-C8322B?style=for-the-badge&amp;labelColor=0B0908" alt="Current mode: OSN preparation">
@@ -31,6 +23,12 @@ CURRENT TARGET: OSN INFORMATICS
   </a>
   <a href="mailto:sofwanthoriqn10@gmail.com">
     <img src="https://img.shields.io/badge/TRANSMIT-EMAIL-F2B33D?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B0908&amp;labelColor=0B0908" alt="Email Sofwan">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://heavenpierceher.bandcamp.com/track/war-without-reason">
+    <img width="100%" src="assets/now-playing.svg" alt="Current soundtrack: War Without Reason by Heaven Pierce Her">
   </a>
 </p>
 
@@ -84,14 +82,16 @@ I am open to mentorship, collaborations, learning opportunities, and beginner-fr
 
 ---
 
-<div align="center">
+<p align="center">
+  <code>THE TUTORIALS ARE DEAD.</code><br>
+  <code>PROBLEMS ARE FUEL.</code><br>
+  <code>THE BACKLOG IS FULL.</code>
+</p>
 
-```text
-THE TUTORIALS ARE DEAD.
-PROBLEMS ARE FUEL.
-THE BACKLOG IS FULL.
-```
+<p align="center">
+  <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/0b144275-aaa1-42d7-aaad-0ca718198048" />
+</p>
 
-**LEARN // BUILD // REVIEW // REPEAT**
-
-</div>
+<p align="center">
+  <strong>LEARN // BUILD // REVIEW // REPEAT</strong>
+</p>
