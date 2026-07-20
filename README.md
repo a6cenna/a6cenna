@@ -5,8 +5,9 @@
   Competitive Programming // Backend // Systems Engineering
 </p>
 
+## LAYER 0 // PRELUDE
+
 <p align="center">
-  <code>LAYER 0 // PRELUDE</code><br>
   <code>SYSTEM STATUS: ONLINE</code><br>
   <code>CURRENT TARGET: OSN INFORMATICS</code>
 </p>
@@ -23,12 +24,6 @@
   </a>
   <a href="mailto:sofwanthoriqn10@gmail.com">
     <img src="https://img.shields.io/badge/TRANSMIT-EMAIL-F2B33D?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B0908&amp;labelColor=0B0908" alt="Email Sofwan">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://heavenpierceher.bandcamp.com/track/war-without-reason">
-    <img width="100%" src="assets/now-playing.svg" alt="Current soundtrack: War Without Reason by Heaven Pierce Her">
   </a>
 </p>
 
@@ -79,6 +74,23 @@ I am open to mentorship, collaborations, learning opportunities, and beginner-fr
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-F2B33D?style=for-the-badge&amp;labelColor=0B0908" alt="Location: Indonesia">
   <img src="https://img.shields.io/badge/STATUS-STILL_BUILDING-E8E2D6?style=for-the-badge&amp;labelColor=0B0908" alt="Status: Still building">
 </p>
+
+<table align="center">
+  <tr>
+    <td width="112" align="center">
+      <a href="https://heavenpierceher.bandcamp.com/track/war-without-reason">
+        <img width="96" src="https://github.com/user-attachments/assets/5979004b-ff95-499e-a55f-a55bbc49d97e" alt="War Without Reason artwork">
+      </a>
+    </td>
+    <td width="330">
+      <sub>NOW PLAYING</sub><br>
+      <strong>War Without Reason</strong><br>
+      <sub>Heaven Pierce Her</sub><br>
+      <code>[==========-----]</code><br>
+      <sub>"...like antennas to heaven"</sub><br
+    </td>
+  </tr>
+</table>
 
 ---
 
