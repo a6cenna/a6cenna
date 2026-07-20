@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e6584fcc-af1e-4d02-8c72-c08a419f6a40" />
 
 <h1 align="center">SOFWAN // A6CENNA</h1>
 
